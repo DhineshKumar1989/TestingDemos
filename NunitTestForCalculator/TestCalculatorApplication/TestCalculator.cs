@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace TestCalculatorApplication
 {
-    [TextFixtue]
     class TestCalculator
     {
         [Test]
